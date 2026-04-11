@@ -1,3 +1,5 @@
+Demo is here: https://timsinashok.github.io/Sentinel-AI/
+
 ```
 FYI This project was submitted by Ashok, Nils, and Parth for Tree Hacks 2026 (Feb 13 -16, Stanford)
 
